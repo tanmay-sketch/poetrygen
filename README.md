@@ -4,9 +4,9 @@ Verseform is a web application to generate and tinker with AI-generated poems in
 ## Backend Setup (FastAPI)
 
 1. Open the terminal and navigate to the backend folder.
-  ```bash
-  cd backend
-  ```
+    ```bash
+    cd backend
+    ```
 2. Create a virtual environment:
    ```bash
    python3 -m venv venv
@@ -34,9 +34,9 @@ Verseform is a web application to generate and tinker with AI-generated poems in
 ## Frontend Setup (React)
 
 1. Open the terminal and navigate to the frontend folder.
-  ```bash
-  cd frontend
-  ```
+    ```bash
+    cd frontend
+    ```
 
 2. Install the required packages:
    ```bash
