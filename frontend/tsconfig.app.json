@@ -5,20 +5,26 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
-
+    
+    "baseUrl": ".",  // Base directory is current (project root)
+    "paths": {
+      "@/*": ["./src/*"]  // Alias '@' points directly to 'src/*'
+    },
+    
     /* Bundler mode */
-    "moduleResolution": "bundler",
+    "moduleResolution": "node",  // Change to 'node' for consistency with Vite
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
-
+    
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src/**/*.{ts,tsx,js,jsx}"],  // Include all src files
+  "exclude": ["node_modules"]  // Exclude node_modules
 }

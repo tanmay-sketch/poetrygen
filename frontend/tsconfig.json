@@ -8,11 +8,11 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": ".",           // Base directory for resolving non-relative modules
+    "baseUrl": ".",            // Base directory for resolving non-relative modules
     "paths": {
-      "@/*": ["frontend/src/*"]        // Support absolute imports from src/
+      "@/*": ["./src/*"]         // Alias for resolving imports from src/
     }
   },
-  "include": ["frontend/src/**/*.ts", "frontend/src/**/*.tsx", "frontend/src/**/*.js", "frontend/src/**/*.jsx"],  // Include all relevant file types
+  "include": ["src/**/*"],  // Include all relevant file types inside src/
   "exclude": ["node_modules"]  // Exclude node_modules folder
 }
