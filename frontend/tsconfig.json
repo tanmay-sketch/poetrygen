@@ -10,9 +10,9 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",           // Base directory for resolving non-relative modules
     "paths": {
-      "@/*": ["src/*"]        // Support absolute imports from src/
+      "@/*": ["frontend/src/*"]        // Support absolute imports from src/
     }
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.js", "src/**/*.jsx"],  // Include all relevant file types
+  "include": ["frontend/src/**/*.ts", "frontend/src/**/*.tsx", "frontend/src/**/*.js", "frontend/src/**/*.jsx"],  // Include all relevant file types
   "exclude": ["node_modules"]  // Exclude node_modules folder
 }
