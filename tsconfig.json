@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "react-jsx",       // Support JSX in TypeScript
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",           // Base directory for resolving non-relative modules
+    "paths": {
+      "@/*": ["src/*"]        // Support absolute imports from src/
+    }
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.js", "src/**/*.jsx"],  // Include all relevant file types
+  "exclude": ["node_modules"]  // Exclude node_modules folder
+}
