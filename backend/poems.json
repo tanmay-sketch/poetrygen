@@ -1,0 +1,6782 @@
+{
+    "123": {
+        "id": 123,
+        "pivots": [
+            {
+                "lineNumber": 19,
+                "nextPoemId": 0,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 10,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 27,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 37,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 51,
+                "nextLineStart": 37
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 38,
+                "nextPoemId": 89,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 95,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 112,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 112,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 116,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 46,
+                "nextPoemId": 120,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 121,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 121,
+                "nextLineStart": 39
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 0,
+                "nextLineStart": 8
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "pivots": [
+            {
+                "lineNumber": 7,
+                "nextPoemId": 1,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 1,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 1,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 1,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 1,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 8,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 9,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 9,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 9,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 12,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 15,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 15,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 23,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 23,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 40,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 46,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 38,
+                "nextPoemId": 46,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 46,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 52,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 55,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 55,
+                "nextLineStart": 11
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "pivots": [
+            {
+                "lineNumber": 20,
+                "nextPoemId": 1,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 9,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 10,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 12,
+                "nextLineStart": 15
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "pivots": [
+            {
+                "lineNumber": 3,
+                "nextPoemId": 1,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 1,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 1,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 8,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 8,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 8,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 8,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 9,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 9,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 1,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 1,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 1,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 1,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 2,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 2,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 2,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 2,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 2,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 2,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 8,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 8,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 9,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 9,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 9,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 9,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 9,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 9,
+                "nextLineStart": 31
+            }
+        ]
+    },
+    "158": {
+        "id": 158,
+        "pivots": [
+            {
+                "lineNumber": 23,
+                "nextPoemId": 1,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 9,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 9,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 9,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 9,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 12,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 13,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 35,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 41,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 55,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 55,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 57,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 58,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 58,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 58,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 58,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 61,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 69,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 80,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 101,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 108,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 111,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 112,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 112,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 112,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 114,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 140,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "pivots": [
+            {
+                "lineNumber": 35,
+                "nextPoemId": 1,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 47,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 12,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 12,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 16,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 17,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 17,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 18,
+                "nextLineStart": 12
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 9,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 13,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 17,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 17,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 17,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 17,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 22,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 23,
+                "nextLineStart": 14
+            }
+        ]
+    },
+    "108": {
+        "id": 108,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 1,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 1,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 12,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 13,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 13,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 14,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 16,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 20,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 49,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 55,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 55,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 59,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 46,
+                "nextPoemId": 60,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 67,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 70,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 83,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 38,
+                "nextPoemId": 161,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 98,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 38,
+                "nextPoemId": 100,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 103,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 103,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 103,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 38,
+                "nextPoemId": 105,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 108,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 108,
+                "nextLineStart": 23
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "pivots": [
+            {
+                "lineNumber": 19,
+                "nextPoemId": 1,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 1,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 2,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 22,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 2,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 2,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 12,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 13,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 13,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 16,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 18,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 19,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 21,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 21,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 21,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 22,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 23,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 23,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 23,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 23,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 23,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 24,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 24,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 32,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 2,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 2,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 2,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 2,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 2,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 2,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 2,
+                "nextLineStart": 16
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 2,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 9,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 9,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 12,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 12,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 30,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 30,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 39,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 39,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 39,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 39,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 52,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 52,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 55,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 55,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 55,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 46,
+                "nextPoemId": 55,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 56,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "111": {
+        "id": 111,
+        "pivots": [
+            {
+                "lineNumber": 16,
+                "nextPoemId": 2,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 15,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 17,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 17,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 17,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 17,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 37,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 55,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 55,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 55,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 61,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 102,
+                "nextLineStart": 33
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "pivots": [
+            {
+                "lineNumber": 43,
+                "nextPoemId": 2,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 4,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            }
+        ]
+    },
+    "112": {
+        "id": 112,
+        "pivots": [
+            {
+                "lineNumber": 32,
+                "nextPoemId": 3,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 4,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 4,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 4,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 4,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 4,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 9,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 9,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 10,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 10,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 10,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 13,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 13,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 17,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 17,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 17,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 17,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 22,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 39,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 39,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 51,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 52,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 55,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 61,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 70,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 83,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 89,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 89,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 98,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 99,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 106,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 106,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 108,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 110,
+                "nextLineStart": 15
+            }
+        ]
+    },
+    "152": {
+        "id": 152,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 4,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 47,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 52,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 55,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 79,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 96,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 97,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 104,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 105,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 107,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 108,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 148,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "125": {
+        "id": 125,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 4,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 4,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 4,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 14,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 19,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 109,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 109,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 121,
+                "nextLineStart": 2
+            }
+        ]
+    },
+    "149": {
+        "id": 149,
+        "pivots": [
+            {
+                "lineNumber": 50,
+                "nextPoemId": 4,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 27,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 39,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 58,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 111,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 111,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 111,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 121,
+                "nextLineStart": 41
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 5,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 9,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 33,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 37,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 37,
+                "nextLineStart": 14
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "pivots": [
+            {
+                "lineNumber": 17,
+                "nextPoemId": 6,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 17,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 20,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 24,
+                "nextLineStart": 2
+            }
+        ]
+    },
+    "142": {
+        "id": 142,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 6,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 36,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 51,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 51,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 51,
+                "nextLineStart": 37
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 60,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 123,
+                "nextLineStart": 44
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 8,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "121": {
+        "id": 121,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 9,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 21,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 39,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 39,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 48,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 48,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 55,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 58,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 58,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 60,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 60,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 60,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 101,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 107,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 112,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 112,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 112,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 112,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 112,
+                "nextLineStart": 41
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "pivots": [
+            {
+                "lineNumber": 40,
+                "nextPoemId": 9,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 9,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 12,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 12,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 12,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 14,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 47,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 47,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 47,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 51,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 51,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 51,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 51,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 51,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 55,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 55,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 55,
+                "nextLineStart": 34
+            }
+        ]
+    },
+    "127": {
+        "id": 127,
+        "pivots": [
+            {
+                "lineNumber": 26,
+                "nextPoemId": 9,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 9,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 46,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 54,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 56,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 56,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 110,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 110,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 114,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 121,
+                "nextLineStart": 41
+            }
+        ]
+    },
+    "126": {
+        "id": 126,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 9,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 13,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 55,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 110,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 111,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 121,
+                "nextLineStart": 6
+            }
+        ]
+    },
+    "99": {
+        "id": 99,
+        "pivots": [
+            {
+                "lineNumber": 25,
+                "nextPoemId": 9,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 52,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 55,
+                "nextLineStart": 19
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "pivots": [
+            {
+                "lineNumber": 5,
+                "nextPoemId": 9,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 9,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 12,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 12,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 16,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 17,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 18,
+                "nextLineStart": 6
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 9,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 15,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 16,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 19,
+                "nextLineStart": 8
+            }
+        ]
+    },
+    "145": {
+        "id": 145,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 58,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 58,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 100,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 108,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 108,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 121,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 135,
+                "nextLineStart": 49
+            }
+        ]
+    },
+    "84": {
+        "id": 84,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 9,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 19,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 29,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 66,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 71,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 73,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "87": {
+        "id": 87,
+        "pivots": [
+            {
+                "lineNumber": 12,
+                "nextPoemId": 9,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 19,
+                "nextLineStart": 25
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 9,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 9,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 9,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 9,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 12,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 12,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 12,
+                "nextLineStart": 43
+            }
+        ]
+    },
+    "133": {
+        "id": 133,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 9,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 17,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 23,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 23,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 23,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 23,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 59,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 59,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 69,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 81,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 108,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 108,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 109,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 109,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 110,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 117,
+                "nextLineStart": 18
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "pivots": [
+            {
+                "lineNumber": 3,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 22,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 23,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 29,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 39,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 59,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "90": {
+        "id": 90,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 9,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 15,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 75,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "pivots": [
+            {
+                "lineNumber": 13,
+                "nextPoemId": 9,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 10,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 12,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "155": {
+        "id": 155,
+        "pivots": [
+            {
+                "lineNumber": 21,
+                "nextPoemId": 10,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 51,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 55,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 55,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 55,
+                "nextLineStart": 44
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 55,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 57,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 65,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 101,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 108,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 108,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 110,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 112,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 112,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 112,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 113,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 121,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 124,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 127,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 145,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 10,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 13,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 15,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 19,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 20,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 20,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 20,
+                "nextLineStart": 10
+            }
+        ]
+    },
+    "83": {
+        "id": 83,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 10,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 62,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 73,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "pivots": [
+            {
+                "lineNumber": 6,
+                "nextPoemId": 11,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 12,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "pivots": [
+            {
+                "lineNumber": 19,
+                "nextPoemId": 12,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 17,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 22,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 28,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 46,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 47,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 50,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 51,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 55,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 12,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 12,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 41,
+                "nextLineStart": 5
+            }
+        ]
+    },
+    "168": {
+        "id": 168,
+        "pivots": [
+            {
+                "lineNumber": 25,
+                "nextPoemId": 12,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 13,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 18,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 48,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 50,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 60,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 108,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 121,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 121,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 128,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 148,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 152,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 154,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 155,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 155,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 155,
+                "nextLineStart": 20
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "pivots": [
+            {
+                "lineNumber": 6,
+                "nextPoemId": 12,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 12,
+                "nextLineStart": 35
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 12,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 13,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 18,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 26,
+                "nextLineStart": 2
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 12,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 15,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 28,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 28,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "96": {
+        "id": 96,
+        "pivots": [
+            {
+                "lineNumber": 20,
+                "nextPoemId": 12,
+                "nextLineStart": 37
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 52,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 52,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 52,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 58,
+                "nextLineStart": 19
+            }
+        ]
+    },
+    "151": {
+        "id": 151,
+        "pivots": [
+            {
+                "lineNumber": 22,
+                "nextPoemId": 12,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 18,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 50,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 56,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 56,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 56,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 56,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 58,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 60,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 60,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 78,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 96,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 100,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 101,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 104,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 105,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 107,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 109,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 111,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 112,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 112,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 116,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 117,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 120,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 121,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 121,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 121,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 128,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 133,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 133,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 136,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 146,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "pivots": [
+            {
+                "lineNumber": 13,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "pivots": [
+            {
+                "lineNumber": 18,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 15,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 15,
+                "nextLineStart": 10
+            }
+        ]
+    },
+    "86": {
+        "id": 86,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 13,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 23,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 65,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 65,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "pivots": [
+            {
+                "lineNumber": 7,
+                "nextPoemId": 13,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 13,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 13,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 15,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 18,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 24,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 37,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 48,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 52,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "98": {
+        "id": 98,
+        "pivots": [
+            {
+                "lineNumber": 43,
+                "nextPoemId": 13,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 46,
+                "nextPoemId": 17,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 17,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 20,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 21,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 23,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 35,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 42,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 48,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 52,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 52,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 53,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 45,
+                "nextPoemId": 56,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 56,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 56,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 60,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 46,
+                "nextPoemId": 64,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 94,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 96,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 13,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 14,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 14,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "91": {
+        "id": 91,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 41,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 58,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            }
+        ]
+    },
+    "110": {
+        "id": 110,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 13,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 36,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 49,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 51,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 45,
+                "nextPoemId": 53,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 55,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 55,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 58,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 58,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 58,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 59,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 65,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 107,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 108,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "130": {
+        "id": 130,
+        "pivots": [
+            {
+                "lineNumber": 16,
+                "nextPoemId": 13,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 101,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 110,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 112,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 113,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 113,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 121,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "135": {
+        "id": 135,
+        "pivots": [
+            {
+                "lineNumber": 28,
+                "nextPoemId": 13,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 13,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 13,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 13,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 13,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 39,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 58,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 58,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 108,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 117,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 124,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 128,
+                "nextLineStart": 2
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "pivots": [
+            {
+                "lineNumber": 13,
+                "nextPoemId": 14,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 48,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 48,
+                "nextLineStart": 27
+            }
+        ]
+    },
+    "118": {
+        "id": 118,
+        "pivots": [
+            {
+                "lineNumber": 3,
+                "nextPoemId": 14,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 38,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 39,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            }
+        ]
+    },
+    "139": {
+        "id": 139,
+        "pivots": [
+            {
+                "lineNumber": 3,
+                "nextPoemId": 14,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 40,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 55,
+                "nextLineStart": 34
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 55,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 103,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 107,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 137,
+                "nextLineStart": 2
+            }
+        ]
+    },
+    "117": {
+        "id": 117,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 15,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 47,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 58,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 64,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 75,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 91,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 102,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 108,
+                "nextLineStart": 22
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 108,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 108,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 108,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 111,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 112,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 112,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 112,
+                "nextLineStart": 42
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 113,
+                "nextLineStart": 49
+            }
+        ]
+    },
+    "73": {
+        "id": 73,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 15,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 22,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 28,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 41,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 55,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 64,
+                "nextLineStart": 9
+            }
+        ]
+    },
+    "101": {
+        "id": 101,
+        "pivots": [
+            {
+                "lineNumber": 19,
+                "nextPoemId": 15,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 27,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 55,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 63,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 69,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 69,
+                "nextLineStart": 11
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 16,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "157": {
+        "id": 157,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 16,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 37,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 49,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 53,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 53,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 57,
+                "nextLineStart": 6
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "pivots": [
+            {
+                "lineNumber": 6,
+                "nextPoemId": 17,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 23,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            }
+        ]
+    },
+    "164": {
+        "id": 164,
+        "pivots": [
+            {
+                "lineNumber": 21,
+                "nextPoemId": 17,
+                "nextLineStart": 14
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            }
+        ]
+    },
+    "92": {
+        "id": 92,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 28,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 48,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 58,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 74,
+                "nextLineStart": 9
+            }
+        ]
+    },
+    "94": {
+        "id": 94,
+        "pivots": [
+            {
+                "lineNumber": 45,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 35,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 45,
+                "nextPoemId": 52,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 52,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 60,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "113": {
+        "id": 113,
+        "pivots": [
+            {
+                "lineNumber": 38,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 55,
+                "nextLineStart": 46
+            },
+            {
+                "lineNumber": 39,
+                "nextPoemId": 58,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 58,
+                "nextLineStart": 50
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 59,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 108,
+                "nextLineStart": 25
+            }
+        ]
+    },
+    "154": {
+        "id": 154,
+        "pivots": [
+            {
+                "lineNumber": 35,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 23,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 23,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 37,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 37,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 37,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 47,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 48,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 49,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 51,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 54,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 54,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 54,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 54,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 58,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 58,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 63,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 86,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 86,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 97,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 97,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 100,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 107,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 107,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 107,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 107,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 113,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 120,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 121,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 124,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 132,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 136,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 136,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 137,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 144,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 147,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 147,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 147,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 149,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 151,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 151,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 151,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 151,
+                "nextLineStart": 33
+            }
+        ]
+    },
+    "161": {
+        "id": 161,
+        "pivots": [
+            {
+                "lineNumber": 18,
+                "nextPoemId": 17,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 19,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 20,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 49,
+                "nextPoemId": 55,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 98,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 98,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 101,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 108,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 109,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 147,
+                "nextLineStart": 21
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "pivots": [
+            {
+                "lineNumber": 12,
+                "nextPoemId": 18,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 39,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 52,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 55,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 55,
+                "nextLineStart": 30
+            }
+        ]
+    },
+    "150": {
+        "id": 150,
+        "pivots": [
+            {
+                "lineNumber": 5,
+                "nextPoemId": 18,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 39,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 53,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 58,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 79,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 80,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 108,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 121,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 147,
+                "nextLineStart": 47
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "pivots": [
+            {
+                "lineNumber": 27,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 26,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 20,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 37,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 46,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 55,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "140": {
+        "id": 140,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 55,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 55,
+                "nextLineStart": 31
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 58,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 69,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 96,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 103,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 135,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 135,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 136,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "163": {
+        "id": 163,
+        "pivots": [
+            {
+                "lineNumber": 18,
+                "nextPoemId": 18,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 35,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 39,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 39,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 40,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 79,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 92,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 96,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 103,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 103,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 104,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 108,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 110,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 42,
+                "nextPoemId": 135,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 147,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 151,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 155,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 161,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 161,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 161,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 162,
+                "nextLineStart": 30
+            }
+        ]
+    },
+    "97": {
+        "id": 97,
+        "pivots": [
+            {
+                "lineNumber": 13,
+                "nextPoemId": 19,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 48,
+                "nextLineStart": 44
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 52,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 54,
+                "nextLineStart": 27
+            }
+        ]
+    },
+    "167": {
+        "id": 167,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 19,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 20,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 76,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 83,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 83,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 87,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 103,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 107,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 117,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 117,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 123,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "137": {
+        "id": 137,
+        "pivots": [
+            {
+                "lineNumber": 29,
+                "nextPoemId": 19,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 41,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 101,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 101,
+                "nextLineStart": 17
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "pivots": [
+            {
+                "lineNumber": 7,
+                "nextPoemId": 19,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 29,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 29,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 52,
+                "nextLineStart": 43
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "pivots": [
+            {
+                "lineNumber": 6,
+                "nextPoemId": 21,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 23,
+                "nextLineStart": 15
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 21,
+                "nextLineStart": 12
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "pivots": [
+            {
+                "lineNumber": 7,
+                "nextPoemId": 22,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 22,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 22,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 55,
+                "nextLineStart": 29
+            }
+        ]
+    },
+    "136": {
+        "id": 136,
+        "pivots": [
+            {
+                "lineNumber": 36,
+                "nextPoemId": 22,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 27,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 58,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 123,
+                "nextLineStart": 38
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 22,
+                "nextLineStart": 5
+            }
+        ]
+    },
+    "82": {
+        "id": 82,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 22,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 70,
+                "nextLineStart": 3
+            }
+        ]
+    },
+    "80": {
+        "id": 80,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 22,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 29,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 65,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 73,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "pivots": [
+            {
+                "lineNumber": 21,
+                "nextPoemId": 23,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 23,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 39,
+                "nextLineStart": 5
+            }
+        ]
+    },
+    "162": {
+        "id": 162,
+        "pivots": [
+            {
+                "lineNumber": 37,
+                "nextPoemId": 23,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 23,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 39,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 46,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 52,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 60,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 79,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 103,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 103,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 103,
+                "nextLineStart": 29
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 107,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 45,
+                "nextPoemId": 108,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 112,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 112,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 112,
+                "nextLineStart": 36
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 132,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 40,
+                "nextPoemId": 139,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 148,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 153,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 156,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "166": {
+        "id": 166,
+        "pivots": [
+            {
+                "lineNumber": 22,
+                "nextPoemId": 23,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 44,
+                "nextPoemId": 23,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 41,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 43,
+                "nextPoemId": 52,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 96,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 96,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 96,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 98,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 104,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 108,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 108,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 128,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 47,
+                "nextPoemId": 131,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 131,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 133,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 133,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 133,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 133,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 148,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 153,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 153,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 155,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 162,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 41,
+                "nextPoemId": 162,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 162,
+                "nextLineStart": 37
+            }
+        ]
+    },
+    "102": {
+        "id": 102,
+        "pivots": [
+            {
+                "lineNumber": 21,
+                "nextPoemId": 26,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "131": {
+        "id": 131,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 27,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 36,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 61,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 108,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 112,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 121,
+                "nextLineStart": 19
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "pivots": [
+            {
+                "lineNumber": 14,
+                "nextPoemId": 27,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            }
+        ]
+    },
+    "89": {
+        "id": 89,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 27,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 37,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 54,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 76,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 76,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 76,
+                "nextLineStart": 8
+            }
+        ]
+    },
+    "109": {
+        "id": 109,
+        "pivots": [
+            {
+                "lineNumber": 5,
+                "nextPoemId": 27,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 48,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 98,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 104,
+                "nextLineStart": 26
+            },
+            {
+                "lineNumber": 48,
+                "nextPoemId": 105,
+                "nextLineStart": 9
+            }
+        ]
+    },
+    "79": {
+        "id": 79,
+        "pivots": [
+            {
+                "lineNumber": 14,
+                "nextPoemId": 27,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 53,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 65,
+                "nextLineStart": 11
+            }
+        ]
+    },
+    "88": {
+        "id": 88,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 28,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 12,
+                "nextPoemId": 64,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 76,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 76,
+                "nextLineStart": 12
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "pivots": [
+            {
+                "lineNumber": 14,
+                "nextPoemId": 28,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 40,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 46,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 47,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 47,
+                "nextLineStart": 41
+            }
+        ]
+    },
+    "107": {
+        "id": 107,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 29,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 29,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 58,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 87,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 87,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 100,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 101,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 101,
+                "nextLineStart": 18
+            }
+        ]
+    },
+    "120": {
+        "id": 120,
+        "pivots": [
+            {
+                "lineNumber": 14,
+                "nextPoemId": 33,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 47,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 60,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 60,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 60,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "147": {
+        "id": 147,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 33,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 66,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 85,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 45,
+                "nextPoemId": 100,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 101,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 135,
+                "nextLineStart": 26
+            }
+        ]
+    },
+    "115": {
+        "id": 115,
+        "pivots": [
+            {
+                "lineNumber": 20,
+                "nextPoemId": 39,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 110,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "106": {
+        "id": 106,
+        "pivots": [
+            {
+                "lineNumber": 12,
+                "nextPoemId": 39,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 14,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "148": {
+        "id": 148,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 39,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 52,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 55,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 56,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 19,
+                "nextPoemId": 58,
+                "nextLineStart": 41
+            },
+            {
+                "lineNumber": 13,
+                "nextPoemId": 75,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 90,
+                "nextLineStart": 1
+            },
+            {
+                "lineNumber": 15,
+                "nextPoemId": 101,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 16,
+                "nextPoemId": 108,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 17,
+                "nextPoemId": 108,
+                "nextLineStart": 27
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 109,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 113,
+                "nextLineStart": 49
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 113,
+                "nextLineStart": 50
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 121,
+                "nextLineStart": 48
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 123,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 137,
+                "nextLineStart": 22
+            }
+        ]
+    },
+    "105": {
+        "id": 105,
+        "pivots": [
+            {
+                "lineNumber": 12,
+                "nextPoemId": 40,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 75,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "153": {
+        "id": 153,
+        "pivots": [
+            {
+                "lineNumber": 30,
+                "nextPoemId": 40,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 40,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 40,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 40,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 37,
+                "nextPoemId": 40,
+                "nextLineStart": 16
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 40,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 50,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 51,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 51,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 55,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 32,
+                "nextPoemId": 55,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 58,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 58,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 58,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 58,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 36,
+                "nextPoemId": 58,
+                "nextLineStart": 43
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 35,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 100,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 100,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "138": {
+        "id": 138,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 40,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 121,
+                "nextLineStart": 19
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 41,
+                "nextLineStart": 15
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 41,
+                "nextLineStart": 15
+            }
+        ]
+    },
+    "165": {
+        "id": 165,
+        "pivots": [
+            {
+                "lineNumber": 39,
+                "nextPoemId": 46,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 21,
+                "nextPoemId": 96,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 151,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "103": {
+        "id": 103,
+        "pivots": [
+            {
+                "lineNumber": 28,
+                "nextPoemId": 47,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 51,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 23,
+                "nextPoemId": 51,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 33,
+                "nextPoemId": 51,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 53,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 58,
+                "nextLineStart": 2
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 72,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 72,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 28,
+                "nextPoemId": 98,
+                "nextLineStart": 3
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 98,
+                "nextLineStart": 45
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 103,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "129": {
+        "id": 129,
+        "pivots": [
+            {
+                "lineNumber": 12,
+                "nextPoemId": 48,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 106,
+                "nextLineStart": 23
+            }
+        ]
+    },
+    "116": {
+        "id": 116,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 51,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 51,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 94,
+                "nextLineStart": 28
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 100,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 102,
+                "nextLineStart": 33
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 102,
+                "nextLineStart": 34
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "pivots": [
+            {
+                "lineNumber": 28,
+                "nextPoemId": 51,
+                "nextLineStart": 8
+            }
+        ]
+    },
+    "104": {
+        "id": 104,
+        "pivots": [
+            {
+                "lineNumber": 26,
+                "nextPoemId": 51,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 51,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 61,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 96,
+                "nextLineStart": 20
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 98,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 27,
+                "nextPoemId": 98,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 98,
+                "nextLineStart": 50
+            }
+        ]
+    },
+    "159": {
+        "id": 159,
+        "pivots": [
+            {
+                "lineNumber": 15,
+                "nextPoemId": 55,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 55,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 30,
+                "nextPoemId": 55,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 59,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 31,
+                "nextPoemId": 61,
+                "nextLineStart": 11
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 98,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 103,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 112,
+                "nextLineStart": 23
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 112,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 50,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 121,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 34,
+                "nextPoemId": 139,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "124": {
+        "id": 124,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 55,
+                "nextLineStart": 40
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 111,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 113,
+                "nextLineStart": 37
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 113,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 4,
+                "nextPoemId": 113,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 117,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "85": {
+        "id": 85,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 55,
+                "nextLineStart": 47
+            },
+            {
+                "lineNumber": 3,
+                "nextPoemId": 59,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 7,
+                "nextPoemId": 59,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "156": {
+        "id": 156,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 56,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 25,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 58,
+                "nextLineStart": 30
+            },
+            {
+                "lineNumber": 20,
+                "nextPoemId": 70,
+                "nextLineStart": 5
+            },
+            {
+                "lineNumber": 22,
+                "nextPoemId": 102,
+                "nextLineStart": 32
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 108,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 108,
+                "nextLineStart": 38
+            },
+            {
+                "lineNumber": 18,
+                "nextPoemId": 104,
+                "nextLineStart": 19
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 107,
+                "nextLineStart": 35
+            },
+            {
+                "lineNumber": 26,
+                "nextPoemId": 112,
+                "nextLineStart": 9
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 112,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 112,
+                "nextLineStart": 24
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 29,
+                "nextPoemId": 112,
+                "nextLineStart": 25
+            },
+            {
+                "lineNumber": 24,
+                "nextPoemId": 124,
+                "nextLineStart": 7
+            },
+            {
+                "lineNumber": 2,
+                "nextPoemId": 139,
+                "nextLineStart": 7
+            }
+        ]
+    },
+    "141": {
+        "id": 141,
+        "pivots": [
+            {
+                "lineNumber": 10,
+                "nextPoemId": 58,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 11,
+                "nextPoemId": 58,
+                "nextLineStart": 17
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 58,
+                "nextLineStart": 18
+            }
+        ]
+    },
+    "132": {
+        "id": 132,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 58,
+                "nextLineStart": 19
+            }
+        ]
+    },
+    "114": {
+        "id": 114,
+        "pivots": [
+            {
+                "lineNumber": 7,
+                "nextPoemId": 58,
+                "nextLineStart": 14
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 85,
+                "nextLineStart": 8
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 101,
+                "nextLineStart": 4
+            }
+        ]
+    },
+    "75": {
+        "id": 75,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 61,
+                "nextLineStart": 1
+            }
+        ]
+    },
+    "74": {
+        "id": 74,
+        "pivots": [
+            {
+                "lineNumber": 8,
+                "nextPoemId": 64,
+                "nextLineStart": 12
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 66,
+                "nextLineStart": 10
+            },
+            {
+                "lineNumber": 9,
+                "nextPoemId": 66,
+                "nextLineStart": 13
+            },
+            {
+                "lineNumber": 10,
+                "nextPoemId": 66,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "78": {
+        "id": 78,
+        "pivots": [
+            {
+                "lineNumber": 3,
+                "nextPoemId": 68,
+                "nextLineStart": 12
+            }
+        ]
+    },
+    "81": {
+        "id": 81,
+        "pivots": [
+            {
+                "lineNumber": 11,
+                "nextPoemId": 69,
+                "nextLineStart": 6
+            }
+        ]
+    },
+    "144": {
+        "id": 144,
+        "pivots": [
+            {
+                "lineNumber": 9,
+                "nextPoemId": 100,
+                "nextLineStart": 21
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 117,
+                "nextLineStart": 20
+            }
+        ]
+    },
+    "122": {
+        "id": 122,
+        "pivots": [
+            {
+                "lineNumber": 22,
+                "nextPoemId": 108,
+                "nextLineStart": 13
+            }
+        ]
+    },
+    "128": {
+        "id": 128,
+        "pivots": [
+            {
+                "lineNumber": 2,
+                "nextPoemId": 108,
+                "nextLineStart": 24
+            }
+        ]
+    },
+    "146": {
+        "id": 146,
+        "pivots": [
+            {
+                "lineNumber": 1,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 112,
+                "nextLineStart": 4
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 112,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 112,
+                "nextLineStart": 6
+            },
+            {
+                "lineNumber": 1,
+                "nextPoemId": 127,
+                "nextLineStart": 27
+            }
+        ]
+    },
+    "143": {
+        "id": 143,
+        "pivots": [
+            {
+                "lineNumber": 4,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 5,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 6,
+                "nextPoemId": 112,
+                "nextLineStart": 39
+            },
+            {
+                "lineNumber": 8,
+                "nextPoemId": 124,
+                "nextLineStart": 4
+            }
+        ]
+    }
+}
