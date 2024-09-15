@@ -2,7 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { BookOpen } from "lucide-react";
 import axios from "axios";
-import Navbar from "@/components/Navbar"; // Adjust the import path as necessary
+import Navbar from "@/components/Navbar";
+import {
+  Breadcrumb,
+  BreadcrumbItem,
+  BreadcrumbLink,
+  BreadcrumbList,
+  BreadcrumbPage,
+  BreadcrumbSeparator,
+} from "@/components/ui/breadcrumb";
 
 // Define Poem interface
 interface Poem {
@@ -17,10 +25,12 @@ interface Pivot {
   nextLineStart: number;
 }
 
-// Define the Pivots response format
 interface PivotsResponse {
-  [lineNumber: number]: Pivot[];
+  [lineNumber: string]: Pivot[];
 }
+
+const MAX_PIVOTS_PER_LINE = 3;
+const MAX_TOTAL_PIVOTS = 10;
 
 // Fetch random poem from the backend API
 const getRandomPoem = async (): Promise<Poem> => {
@@ -33,18 +43,55 @@ const getRandomPoem = async (): Promise<Poem> => {
   }
 };
 
+const processPivots = (pivots: PivotsResponse): PivotsResponse => {
+  let totalPivots = 0;
+  const processedPivots: PivotsResponse = {};
+
+  Object.entries(pivots).forEach(([lineNumber, linePivots]) => {
+    if (linePivots.length > MAX_PIVOTS_PER_LINE) {
+      processedPivots[lineNumber] = linePivots
+        .sort(() => 0.5 - Math.random())
+        .slice(0, MAX_PIVOTS_PER_LINE);
+    } else {
+      processedPivots[lineNumber] = linePivots;
+    }
+    totalPivots += processedPivots[lineNumber].length;
+  });
+
+  if (totalPivots > MAX_TOTAL_PIVOTS) {
+    const lineNumbers = Object.keys(processedPivots);
+    while (totalPivots > MAX_TOTAL_PIVOTS) {
+      const randomLineIndex = Math.floor(Math.random() * lineNumbers.length);
+      const randomLine = lineNumbers[randomLineIndex];
+      if (processedPivots[randomLine].length > 0) {
+        processedPivots[randomLine].pop();
+        totalPivots--;
+      }
+      if (processedPivots[randomLine].length === 0) {
+        delete processedPivots[randomLine];
+        lineNumbers.splice(randomLineIndex, 1);
+      }
+    }
+  }
+
+  return processedPivots;
+};
+
 // Fetch pivots for a given poem from the backend API
 const getPivots = async (poemId: number): Promise<PivotsResponse> => {
   try {
     const response = await axios.get<PivotsResponse>(`http://localhost:8000/api/pivots/${poemId}`);
-    return response.data;
+    return processPivots(response.data);
   } catch (error) {
+    if (axios.isAxiosError(error) && error.response?.status === 404) {
+      console.warn(`No pivots found for poem ${poemId}`);
+      return {}; // Return an empty object if no pivots are found
+    }
     console.error("Error fetching pivots:", error);
     throw error;
   }
 };
 
-// Helper function to parse and display the poem line by line, including clickable pivot lines
 const parsePoem = (
   poem: string,
   pivots: PivotsResponse,
@@ -54,11 +101,11 @@ const parsePoem = (
     <p
       key={index}
       className={`text-center ${
-        pivots[index]
+        pivots[index.toString()]
           ? "cursor-pointer text-verseform-purple hover:text-verseform-blue transition-colors duration-200"
           : "text-gray-800"
       }`}
-      onClick={() => pivots[index] && onPivotClick(index)}
+      onClick={() => pivots[index.toString()] && onPivotClick(index)}
     >
       {line}
     </p>
@@ -71,6 +118,7 @@ const GeneratePage = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [animate, setAnimate] = useState(false);
+  const [poemHistory, setPoemHistory] = useState<Poem[]>([]);
 
   useEffect(() => {
     if (animate) {
@@ -84,6 +132,7 @@ const GeneratePage = () => {
     setLoading(true);
     setError(null);
     setPoem(null);
+    setPoemHistory([]);
     
     try {
       const poemData = await getRandomPoem();
@@ -91,6 +140,7 @@ const GeneratePage = () => {
       
       setPoem(poemData);
       setPivots(pivotData);
+      setPoemHistory([poemData]);
     } catch (error) {
       setError("Failed to fetch poem. Please try again.");
     } finally {
@@ -99,29 +149,40 @@ const GeneratePage = () => {
   };
 
   const handlePivotClick = async (pivotLine: number) => {
-    if (!poem || !pivots[pivotLine]) return;
+    if (!poem || !pivots[pivotLine.toString()]) return;
     setAnimate(true);
 
-    const possiblePivots = pivots[pivotLine];
+    const possiblePivots = pivots[pivotLine.toString()];
     const randomPivot = possiblePivots[Math.floor(Math.random() * possiblePivots.length)];
 
     try {
-      // Fetch the next poem based on the pivot's nextPoemId
       const nextPoem = await axios.get<Poem>(`http://localhost:8000/api/poem/${randomPivot.nextPoemId}`);
       const remainingLines = nextPoem.data.poem.split("\n").slice(randomPivot.nextLineStart);
       
-      setPoem((prevPoem) => {
-        if (prevPoem) {
-          return {
-            ...prevPoem,
-            name: nextPoem.data.name,
-            poem: [...prevPoem.poem.split("\n").slice(0, pivotLine + 1), ...remainingLines].join("\n"),
-          };
-        }
-        return null;
-      });
+      const newPoem = {
+        ...nextPoem.data,
+        poem: [...poem.poem.split("\n").slice(0, pivotLine + 1), ...remainingLines].join("\n"),
+      };
+
+      setPoem(newPoem);
+      setPoemHistory(prevHistory => [...prevHistory, newPoem]);
+      
+      const newPivots = await getPivots(newPoem.id);
+      setPivots(newPivots);
     } catch (error) {
       console.error("Failed to load the next poem", error);
+      setError("Failed to load the next poem. Please try again.");
+    } finally {
+      setAnimate(false);
+    }
+  };
+
+  const handleBreadcrumbClick = (index: number) => {
+    if (index < poemHistory.length - 1) {
+      const selectedPoem = poemHistory[index];
+      setPoem(selectedPoem);
+      setPoemHistory(prevHistory => prevHistory.slice(0, index + 1));
+      getPivots(selectedPoem.id).then(setPivots);
     }
   };
 
@@ -157,25 +218,56 @@ const GeneratePage = () => {
           )}
           
           {poem && (
-            <div className={`transition-all duration-200 ease-in-out ${
-              animate ? 'opacity-0 blur-sm scale-98' : 'opacity-100 blur-0 scale-100'
-            }`}>
-              <h2 className="text-4xl font-semibold mb-6 text-center text-verseform-purple">{poem.name}</h2>
-              <div className="text-xl space-y-3 mb-8 px-4">
-                {parsePoem(poem.poem, pivots, handlePivotClick)}
+            <>
+              {poemHistory.length > 0 && (
+                <Breadcrumb className="mb-6">
+                  <BreadcrumbList>
+                    {poemHistory.map((historyPoem, index) => (
+                      <React.Fragment key={index}>
+                        {index > 0 && <BreadcrumbSeparator />}
+                        <BreadcrumbItem>
+                          {index === poemHistory.length - 1 ? (
+                            <BreadcrumbPage>{historyPoem.name}</BreadcrumbPage>
+                          ) : (
+                            <BreadcrumbLink 
+                              onClick={() => handleBreadcrumbClick(index)}
+                              className="hover:cursor-pointer hover:underline"
+                            >
+                              {historyPoem.name}
+                            </BreadcrumbLink>
+                          )}
+                        </BreadcrumbItem>
+                      </React.Fragment>
+                    ))}
+                  </BreadcrumbList>
+                </Breadcrumb>
+              )}
+              <div className={`transition-all duration-200 ease-in-out ${
+                animate ? 'opacity-0 blur-sm scale-98' : 'opacity-100 blur-0 scale-100'
+              }`}>
+                <h2 className="text-4xl font-semibold mb-6 text-center text-verseform-purple">{poem.name}</h2>
+                <div className="text-xl space-y-3 mb-8 px-4">
+                  {parsePoem(poem.poem, pivots, handlePivotClick)}
+                </div>
+                <div className="flex justify-center mt-8">
+                  <Button 
+                    onClick={handleGeneratePoem} 
+                    className="bg-verseform-purple hover:bg-verseform-blue text-white transition-colors duration-200 text-lg px-6 py-2 rounded-full"
+                  >
+                    Find New Poem
+                  </Button>
+                </div>
+                {Object.keys(pivots).length > 0 ? (
+                  <p className="mt-6 text-gray-600 text-center text-sm">
+                    Click on the highlighted lines to explore new paths in the poem.
+                  </p>
+                ) : (
+                  <p className="mt-6 text-gray-600 text-center text-sm">
+                    This poem doesn't have any interactive elements.
+                  </p>
+                )}
               </div>
-              <div className="flex justify-center mt-8">
-                <Button 
-                  onClick={handleGeneratePoem} 
-                  className="bg-verseform-purple hover:bg-verseform-blue text-white transition-colors duration-200 text-lg px-6 py-2 rounded-full"
-                >
-                  Find New Poem
-                </Button>
-              </div>
-              <p className="mt-6 text-gray-600 text-center text-sm">
-                Click on the highlighted lines to explore new paths in the poem.
-              </p>
-            </div>
+            </>
           )}
         </div>
       </div>

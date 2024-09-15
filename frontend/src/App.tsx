@@ -22,7 +22,7 @@ function App() {
           Verseform
         </h1>
         <p className="text-3xl font-light mb-8 text-center">
-          Read in a higher dimension
+          Read poetry in a higher dimension
         </p>
         <p className="text-xl mb-12 max-w-2xl text-center">
           Experience poetry like never before. Verseform uses AI to match

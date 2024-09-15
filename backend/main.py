@@ -45,14 +45,14 @@ def get_poem(id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=404, detail="Poem not found")
     return poem
 
-# Route to add a new poem
-@app.post("/api/poems")
-def add_poem(name: str, poem: str, db: Session = Depends(get_db)):
-    new_poem = Poem(name=name, poem=poem)
-    db.add(new_poem)
-    db.commit()
-    db.refresh(new_poem)
-    return new_poem
+# # Route to add a new poem
+# @app.post("/api/poems")
+# def add_poem(name: str, poem: str, db: Session = Depends(get_db)):
+#     new_poem = Poem(name=name, poem=poem)
+#     db.add(new_poem)
+#     db.commit()
+#     db.refresh(new_poem)
+#     return new_poem
 
 # Route to get pivots for a given poem ID
 @app.get("/api/pivots/{poem_id}")
