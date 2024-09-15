@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
+// GeneratePage.tsx
+import React, { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { BookOpen } from "lucide-react";
-import axios from "axios";
 import Navbar from "@/components/Navbar";
 import {
   Breadcrumb,
@@ -11,114 +11,22 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
+import { usePoemGenerator } from "../usePoemGenerator";
+import { parsePoem } from "../utils";
+import { ParsedPoemLine } from "../types";
 
-// Define Poem interface
-interface Poem {
-  id: number;
-  name: string;
-  poem: string;
-}
-
-// Define Pivot interface
-interface Pivot {
-  nextPoemId: number;
-  nextLineStart: number;
-}
-
-interface PivotsResponse {
-  [lineNumber: string]: Pivot[];
-}
-
-const MAX_PIVOTS_PER_LINE = 3;
-const MAX_TOTAL_PIVOTS = 10;
-
-// Fetch random poem from the backend API
-const getRandomPoem = async (): Promise<Poem> => {
-  try {
-    const response = await axios.get<Poem>("http://localhost:8000/api/poem/random");
-    return response.data;
-  } catch (error) {
-    console.error("Error fetching random poem:", error);
-    throw error;
-  }
-};
-
-const processPivots = (pivots: PivotsResponse): PivotsResponse => {
-  let totalPivots = 0;
-  const processedPivots: PivotsResponse = {};
-
-  Object.entries(pivots).forEach(([lineNumber, linePivots]) => {
-    if (linePivots.length > MAX_PIVOTS_PER_LINE) {
-      processedPivots[lineNumber] = linePivots
-        .sort(() => 0.5 - Math.random())
-        .slice(0, MAX_PIVOTS_PER_LINE);
-    } else {
-      processedPivots[lineNumber] = linePivots;
-    }
-    totalPivots += processedPivots[lineNumber].length;
-  });
-
-  if (totalPivots > MAX_TOTAL_PIVOTS) {
-    const lineNumbers = Object.keys(processedPivots);
-    while (totalPivots > MAX_TOTAL_PIVOTS) {
-      const randomLineIndex = Math.floor(Math.random() * lineNumbers.length);
-      const randomLine = lineNumbers[randomLineIndex];
-      if (processedPivots[randomLine].length > 0) {
-        processedPivots[randomLine].pop();
-        totalPivots--;
-      }
-      if (processedPivots[randomLine].length === 0) {
-        delete processedPivots[randomLine];
-        lineNumbers.splice(randomLineIndex, 1);
-      }
-    }
-  }
-
-  return processedPivots;
-};
-
-// Fetch pivots for a given poem from the backend API
-const getPivots = async (poemId: number): Promise<PivotsResponse> => {
-  try {
-    const response = await axios.get<PivotsResponse>(`http://localhost:8000/api/pivots/${poemId}`);
-    return processPivots(response.data);
-  } catch (error) {
-    if (axios.isAxiosError(error) && error.response?.status === 404) {
-      console.warn(`No pivots found for poem ${poemId}`);
-      return {}; // Return an empty object if no pivots are found
-    }
-    console.error("Error fetching pivots:", error);
-    throw error;
-  }
-};
-
-const parsePoem = (
-  poem: string,
-  pivots: PivotsResponse,
-  onPivotClick: (pivotLine: number) => void
-) => {
-  return poem.split("\n").map((line: string, index: number) => (
-    <p
-      key={index}
-      className={`text-center ${
-        pivots[index.toString()]
-          ? "cursor-pointer text-verseform-purple hover:text-verseform-blue transition-colors duration-200"
-          : "text-gray-800"
-      }`}
-      onClick={() => pivots[index.toString()] && onPivotClick(index)}
-    >
-      {line}
-    </p>
-  ));
-};
-
-const GeneratePage = () => {
-  const [poem, setPoem] = useState<Poem | null>(null);
-  const [pivots, setPivots] = useState<PivotsResponse>({});
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+const GeneratePage: React.FC = () => {
+  const {
+    poem,
+    pivots,
+    loading,
+    error,
+    poemHistory,
+    generatePoem,
+    handlePivotClick,
+    handleBreadcrumbClick,
+  } = usePoemGenerator();
   const [animate, setAnimate] = useState(false);
-  const [poemHistory, setPoemHistory] = useState<Poem[]>([]);
 
   useEffect(() => {
     if (animate) {
@@ -127,63 +35,37 @@ const GeneratePage = () => {
     }
   }, [animate]);
 
-  const handleGeneratePoem = async () => {
+  const handleGeneratePoem = () => {
     setAnimate(true);
-    setLoading(true);
-    setError(null);
-    setPoem(null);
-    setPoemHistory([]);
-    
-    try {
-      const poemData = await getRandomPoem();
-      const pivotData = await getPivots(poemData.id);
-      
-      setPoem(poemData);
-      setPivots(pivotData);
-      setPoemHistory([poemData]);
-    } catch (error) {
-      setError("Failed to fetch poem. Please try again.");
-    } finally {
-      setLoading(false);
-    }
+    generatePoem();
   };
 
-  const handlePivotClick = async (pivotLine: number) => {
-    if (!poem || !pivots[pivotLine.toString()]) return;
+  const handlePivotClickWithAnimation = (index: number) => {
     setAnimate(true);
-
-    const possiblePivots = pivots[pivotLine.toString()];
-    const randomPivot = possiblePivots[Math.floor(Math.random() * possiblePivots.length)];
-
-    try {
-      const nextPoem = await axios.get<Poem>(`http://localhost:8000/api/poem/${randomPivot.nextPoemId}`);
-      const remainingLines = nextPoem.data.poem.split("\n").slice(randomPivot.nextLineStart);
-      
-      const newPoem = {
-        ...nextPoem.data,
-        poem: [...poem.poem.split("\n").slice(0, pivotLine + 1), ...remainingLines].join("\n"),
-      };
-
-      setPoem(newPoem);
-      setPoemHistory(prevHistory => [...prevHistory, newPoem]);
-      
-      const newPivots = await getPivots(newPoem.id);
-      setPivots(newPivots);
-    } catch (error) {
-      console.error("Failed to load the next poem", error);
-      setError("Failed to load the next poem. Please try again.");
-    } finally {
-      setAnimate(false);
-    }
+    handlePivotClick(index);
   };
 
-  const handleBreadcrumbClick = (index: number) => {
-    if (index < poemHistory.length - 1) {
-      const selectedPoem = poemHistory[index];
-      setPoem(selectedPoem);
-      setPoemHistory(prevHistory => prevHistory.slice(0, index + 1));
-      getPivots(selectedPoem.id).then(setPivots);
-    }
+  const renderPoemLines = (parsedLines: ParsedPoemLine[]) => {
+    return parsedLines.map(({ line, index, hasPivot }) => (
+      <p
+        key={index}
+        className={`text-center ${
+          hasPivot
+            ? "cursor-pointer text-verseform-purple hover:text-verseform-blue transition-colors duration-200"
+            : "text-gray-800"
+        }`}
+        onClick={() => hasPivot && handlePivotClickWithAnimation(index)}
+        role={hasPivot ? "button" : undefined}
+        tabIndex={hasPivot ? 0 : undefined}
+        onKeyPress={(e) => {
+          if (hasPivot && (e.key === 'Enter' || e.key === ' ')) {
+            handlePivotClickWithAnimation(index);
+          }
+        }}
+      >
+        {line}
+      </p>
+    ));
   };
 
   return (
@@ -205,8 +87,8 @@ const GeneratePage = () => {
             </>
           )}
           
-          {error && <p className="text-red-500 mb-4 text-center">{error}</p>}
-          {loading && <p className="text-gray-600 mb-4 text-center">Finding your perfect poem match...</p>}
+          {error && <p className="text-red-500 mb-4 text-center" role="alert">{error}</p>}
+          {loading && <p className="text-gray-600 mb-4 text-center" aria-live="polite">Finding your perfect poem match...</p>}
           
           {!poem && !loading && (
             <Button 
@@ -247,7 +129,7 @@ const GeneratePage = () => {
               }`}>
                 <h2 className="text-4xl font-semibold mb-6 text-center text-verseform-purple">{poem.name}</h2>
                 <div className="text-xl space-y-3 mb-8 px-4">
-                  {parsePoem(poem.poem, pivots, handlePivotClick)}
+                  {renderPoemLines(parsePoem(poem.poem, pivots))}
                 </div>
                 <div className="flex justify-center mt-8">
                   <Button 
