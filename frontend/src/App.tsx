@@ -2,6 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
+import Navbar from "@/components/Navbar"; // Adjust the import path as necessary
 
 function App() {
   const navigate = useNavigate();
@@ -11,14 +12,8 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-600 to-blue-500">
-      {/* Navbar */}
-      <nav className="w-full bg-transparent text-white flex justify-between items-center p-6">
-        <span className="text-2xl font-bold">Verseform</span>
-        {/* <Button variant="ghost" className="text-white hover:text-gray-200">
-          About
-        </Button> */}
-      </nav>
-
+      <Navbar isLandingPage={true} />
+      
       {/* Hero Section */}
       <section className="flex-1 flex flex-col items-center justify-center text-white px-4">
         <h1 className="text-7xl font-extrabold mb-4 text-center">
@@ -28,7 +23,7 @@ function App() {
           Read in a higher dimension
         </p>
         <p className="text-xl mb-12 max-w-2xl text-center">
-          Experience poetry like never before. Verseform uses AI to generate
+          Experience poetry like never before. Verseform uses AI to match
           unique poems and allows you to explore different paths within each verse.
         </p>
         <Button 
