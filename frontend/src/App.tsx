@@ -2,7 +2,8 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import Navbar from "@/components/Navbar"; // Adjust the import path as necessary
+import Navbar from "@/components/Navbar";
+import DotBackground from "@/components/DotBackground"; // Adjust the import path as necessary
 
 function App() {
   const navigate = useNavigate();
@@ -11,12 +12,13 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-600 to-blue-500">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-purple-600 to-blue-500 relative overflow-hidden">
+      <DotBackground />
       <Navbar isLandingPage={true} />
-      
+
       {/* Hero Section */}
-      <section className="flex-1 flex flex-col items-center justify-center text-white px-4">
-        <h1 className="text-7xl font-extrabold mb-4 text-center">
+      <section className="flex-1 flex flex-col items-center justify-center text-white px-4 relative z-10">
+        <h1 className="text-7xl font-extrabold mb-4 text-center bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-300">
           Verseform
         </h1>
         <p className="text-3xl font-light mb-8 text-center">
@@ -35,7 +37,7 @@ function App() {
       </section>
 
       {/* Footer */}
-      <footer className="w-full text-white text-center p-4">
+      <footer className="w-full text-white text-center p-4 relative z-10">
         <p>&copy; 2024 Verseform. All rights reserved.</p>
       </footer>
     </div>

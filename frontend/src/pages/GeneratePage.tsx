@@ -4,7 +4,6 @@ import { BookOpen } from "lucide-react";
 import axios from "axios";
 import Navbar from "@/components/Navbar"; // Adjust the import path as necessary
 
-
 // Define Poem interface
 interface Poem {
   id: number;
@@ -129,10 +128,9 @@ const parsePoem = (
                       <BookOpen className="w-12 h-12 text-verseform-purple" />
                     </div>
                   </div>
-                  <h1 className="text-5xl font-bold mb-6 text-verseform-purple">Unveil Your Verse</h1>
+                  <h1 className="text-5xl font-bold mb-6 text-verseform-purple">Click on the highlighted verses</h1>
                   <p className="text-xl text-gray-700 mb-8">
-                    Explore AI-matched poetry that evolves with every read. 
-                    Click on highlighted verses to shape the poem's journey.
+                    Explore AI-matched poetry that evolves with every read and unveil your own poetic journey.
                   </p>
                 </>
               )}
@@ -153,7 +151,7 @@ const parsePoem = (
                 <div className={`transition-all duration-200 ease-in-out ${
                   animate ? 'opacity-0 blur-sm scale-98' : 'opacity-100 blur-0 scale-100'
                 }`}>
-                  <h2 className="text-3xl font-semibold mb-6 text-center text-verseform-blue">{poem.name}</h2>
+                  <h2 className="text-4xl font-semibold mb-6 text-center text-verseform-purple">{poem.name}</h2>
                   <div className="text-xl space-y-3 mb-8 px-4">
                     {parsePoem(poem.poem, pivots, handlePivotClick)}
                   </div>
