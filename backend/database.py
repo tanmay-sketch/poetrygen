@@ -40,3 +40,11 @@ class Pivot(Base):
 
 # Create the database and tables
 Base.metadata.create_all(bind=engine)
+
+# Dependency function to get the DB session for FastAPI routes
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
